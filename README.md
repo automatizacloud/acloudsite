@@ -1,0 +1,2 @@
+# acloudsite
+Automatiza Cloud - Wordpress
